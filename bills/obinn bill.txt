@@ -1,0 +1,5 @@
+Bill breakdown: 
+maggi:                    ...$23 
+sugar:                    ...$67.9 
+tip:                      ...$0 
+total:                    ...$90.90
